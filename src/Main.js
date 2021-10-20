@@ -3,7 +3,7 @@
  */
 import React, { Component } from 'react'
 import $ from 'jquery'
-import url from './audio/gbqq.mp3' // 引入背景音乐文件
+import url from './audio/zsjnmdr.mp3' // 引入背景音乐文件
 
 
 class Main extends Component {
