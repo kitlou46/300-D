@@ -17,7 +17,7 @@ class Main extends Component {
         }, 1000
         )
         var audio = document.getElementById("audio");
-        setTimeout(() => audio.play(), 8500) // 背景音乐在页面加载后，延迟播放的时长，单位：毫秒。
+        setTimeout(() => audio.play(), 13500) // 背景音乐在页面加载后，延迟播放的时长，单位：毫秒。
     }
     print = () => {
         $.fn.autotype = function () {
